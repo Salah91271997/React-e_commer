@@ -1,29 +1,27 @@
-# Slack Clone with ReactJS
+# E-Commerce with ReactJS
 
 ## Description
 
-- Slack-Clone, Implemented using React and Firebase
-- Back end ,React-Firebase for authentication with Google-auth, Fire Store database
+- E-Commerce , Implemented using React and E-Commerce ,stripe api
+- E-Commerce api provide me with data ,adding and efiting method , also price checkout
 
 ## Features
 
-- sign in with your Google Account
-- router-dom for saving server-side loads or refreshing. this functionality improve the speed for redirect to one component to another without refreshing from server-side
-- will be in real-time, if any changes make happens in messages or channels then it will automatically changes in our app
+- choose item and add it to cart
+- checkout the Shopping Cart
+- fill the Shipping address form
+- enter user payment to pay via strip
 
 ## Demo
 
-- [demo](https://slack-clone-15b50.web.app/)
+- [demo](https://whimsical-starship-a9cd8c.netlify.app/)
 
 ## Built With/Topics
 
-- Redux
-- Styled Components
-- MaterialUI/Icons
+- MaterialUI components
+- MaterialUI icons
 - React Hooks
-- Firebase Hooks
-- Flexbox
-- Firebase's Firestore realtime Database
-- Firebase Google Authentication (Full Login)
+- React form Hook
+- Layout MaterialUi Grid
 - Responsive Design
-- Deploy the App LIVE on Firebase
+- Deploy the App LIVE on Netlify
