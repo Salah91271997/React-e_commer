@@ -14,7 +14,7 @@
 
 ## Demo
 
-- [demo](https://whimsical-starship-a9cd8c.netlify.app/)
+- [demo](https://prismatic-daifuku-97c98c.netlify.app/)
 
 ## Built With/Topics
 
